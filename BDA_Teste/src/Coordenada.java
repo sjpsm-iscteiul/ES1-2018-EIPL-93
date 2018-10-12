@@ -10,7 +10,7 @@ public class Coordenada {
 
 	@Override
 	public String toString() {
-		return "Coo5rdenada [" + x + ", " + y + "]";
+		return "Coordenada [" + x + ", " + y + "]";
 	}
 	
 }
